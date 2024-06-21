@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore Django and npm generated files
+*.pyc
+*.log
+*.sqlite3
+/node_modules
+/build
+/static
